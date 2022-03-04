@@ -1,0 +1,26 @@
+﻿  Deblur.cpp
+  MyForm.cpp
+d:\svalkash_files\programs\vs2017\opencv_withforms\opencv_withforms\myform.h(469): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+d:\svalkash_files\programs\vs2017\lib\install\opencv\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\svalkash_files\programs\vs2017\lib\install\opencv\include\opencv2\core\mat.inl.hpp(2181): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\svalkash_files\programs\vs2017\lib\install\opencv\include\opencv2\core\mat.inl.hpp(3781): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\svalkash_files\programs\vs2017\lib\install\opencv\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\svalkash_files\programs\vs2017\lib\install\opencv\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\svalkash_files\programs\vs2017\lib\install\opencv\include\opencv2\core\mat.inl.hpp(2181): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\svalkash_files\programs\vs2017\lib\install\opencv\include\opencv2\core\mat.inl.hpp(3781): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\svalkash_files\programs\vs2017\lib\install\opencv\include\opencv2\core\fast_math.hpp(204): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\svalkash_files\programs\vs2017\lib\install\opencv\include\opencv2\core\fast_math.hpp(205): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\svalkash_files\programs\vs2017\lib\install\opencv\include\opencv2\core\mat.inl.hpp(748): warning C4793: 'cv::Mat::operator=': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  opencv_withforms.vcxproj -> D:\SVALKASH_FILES\Programs\VS2017\opencv_withforms\x64\Debug\opencv_withforms.exe
